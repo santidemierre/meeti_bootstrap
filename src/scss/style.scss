@@ -1,5 +1,3 @@
-$color: green;
+/* Archivo principal */
 
-body {
-    background-color: $color;
-}
+@use 'custom';
