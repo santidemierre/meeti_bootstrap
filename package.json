@@ -1,0 +1,23 @@
+{
+  "name": "03-meeti",
+  "version": "1.0.0",
+  "description": "Aprendiendo bootstrap 5 y SASS",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santidemierre/meeti_bootstrap.git"
+  },
+  "author": "Santiago Demierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santidemierre/meeti_bootstrap/issues"
+  },
+  "homepage": "https://github.com/santidemierre/meeti_bootstrap#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.57.1"
+  }
+}
